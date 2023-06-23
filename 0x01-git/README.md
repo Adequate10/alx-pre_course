@@ -1,3 +1,1 @@
-2nd repository readme
-My 2nd repository
-My second repository
+My 2nd readme
